@@ -5,7 +5,7 @@ url: https://S-McPhail.github.io/cyber-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: AK
+meta_author: AKh
 
 # Google webmaster tools
 google_verify:
