@@ -6,6 +6,8 @@ description: "Portfolio of cybersecurity work samples for a junior-level cyber s
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
 meta_author: AKh
+theme: minima
+
 
 # Google webmaster tools
 google_verify:
